@@ -9,6 +9,6 @@ This code has been tested on ROS Melodic
 
 ## Compile
   1) source /opt/ros/melodic/setup.bash
-  2) source ~/CATKIN_WORKSPACE/deve/setup.bash
+  2) source ~/CATKIN_WORKSPACE/devel/setup.bash
   3) catkin_make
 
